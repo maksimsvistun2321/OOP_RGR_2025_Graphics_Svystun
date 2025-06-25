@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\bin\Debug\RGR_Graphics.exe.config
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\bin\Debug\RGR_Graphics.exe
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\bin\Debug\RGR_Graphics.pdb
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.GrapicsForm.resources
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.Properties.Resources.resources
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.csproj.GenerateResource.cache
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.exe
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.pdb
+C:\Users\user\Desktop\rgr oop\RGR_Graphics\RGR_Graphics\obj\Debug\RGR_Graphics.exe.config
